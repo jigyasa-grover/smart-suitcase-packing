@@ -5,6 +5,11 @@
 
 ![image](https://github.com/user-attachments/assets/c94c846e-fc92-4773-875f-a30e45f6639f)
 
+```
+Huge thanks to the Google ML Developer team organizing for #VertexAISprint ✨
+Google Cloud credits are provided for this project.
+#BuildWithAI #BuildWithGemini #VertexSprint #VertexAISprint #AISprint #GeminiSprint
+```
 <br><br>
 
 <p><em>Are you tired of staring blankly at your closet before a trip, unsure of what to pack? Do you end up with a suitcase overflowing with clothes you never wear, or worse, realize you've forgotten essential items like that specific adapter or your favorite sunscreen? </em></p>
